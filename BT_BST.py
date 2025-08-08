@@ -1,8 +1,4 @@
-# Binary Trees and Binary Search Trees - Greg Hogg DSA Course Materials Lecture 8
-
-# The Colab Notebook can be viewed here: https://colab.research.google.com/drive/1d0z8pA4Swkk-_bKZkaKpuRQvCNYecxNA
-# The corresponding page on Algomap.io is https://algomap.io/lessons/binary-trees
-# The corresponding YouTube video is https://youtu.be/EPwWrs8OtfI
+# Binary Trees and Binary Search Trees 
 
 # Binary Trees
 class TreeNode:
